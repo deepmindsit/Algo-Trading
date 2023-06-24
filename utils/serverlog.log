@@ -1,0 +1,18 @@
+[INFO  uvicorn.error server:65 - serve() - 15.11.2021 01:24:51 PM]
+	 Started server process [42170] 
+
+[INFO  uvicorn.error on:45 - startup() - 15.11.2021 01:24:51 PM]
+	 Waiting for application startup. 
+
+[INFO  uvicorn.error on:59 - startup() - 15.11.2021 01:24:51 PM]
+	 Application startup complete. 
+
+[INFO  uvicorn.error server:242 - shutdown() - 15.11.2021 01:26:58 PM]
+	 Shutting down 
+
+[INFO  uvicorn.error server:267 - shutdown() - 15.11.2021 01:26:58 PM]
+	 Waiting for background tasks to complete. (CTRL+C to force quit) 
+
+[INFO  uvicorn.error server:75 - serve() - 15.11.2021 01:26:58 PM]
+	 Finished server process [42170] 
+
